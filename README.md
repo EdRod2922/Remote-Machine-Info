@@ -15,11 +15,13 @@ How to Use
     Run the Script:
     Execute the script by running the following command in your terminal:
 
-python script_name.py
+        python script_name.py
+
+
 
 Expected Output:
 The script will output the remote host name and its IP address.
-Example:
+    Example:
 
     Remote host name: rmit.edu.au
     IP Address: 203.10.91.32
